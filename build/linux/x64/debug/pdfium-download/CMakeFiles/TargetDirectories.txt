@@ -1,0 +1,3 @@
+/home/mohsen2/Documents/template/build/linux/x64/debug/pdfium-download/CMakeFiles/rebuild_cache.dir
+/home/mohsen2/Documents/template/build/linux/x64/debug/pdfium-download/CMakeFiles/edit_cache.dir
+/home/mohsen2/Documents/template/build/linux/x64/debug/pdfium-download/CMakeFiles/pdfium-download.dir
